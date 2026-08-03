@@ -1,6 +1,6 @@
 # CeloHT Documentation
 
-**The complete technical, governance, and impact documentation for CeloHT — a Haitian-led, open-source, community-governed initiative for financial inclusion, blockchain education, and environmental sustainability, founded in Léogâne, Haiti.**
+**The complete technical, governance, and impact documentation for CeloHT a Haitian-led, open-source, community-governed initiative for financial inclusion, blockchain education, and environmental sustainability, founded in Léogâne, Haiti.**
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 [![No Token Policy](https://img.shields.io/badge/Token-None-critical)](./NO_TOKEN_POLICY.md)
@@ -39,7 +39,7 @@ CeloHT is a Haitian-led, open-source initiative expanding financial inclusion th
 2. **[Agent Network](./AGENT_NETWORK.md)** — a trained, community-rooted network of local agents providing cash ↔ cUSD conversion and digital payment support.
 3. **[Reforestation](./REFORESTATION.md)** — measurable, transparently reported environmental restoration tied to community development.
 
-CeloHT uses the **Celo blockchain** as infrastructure — supporting **cUSD** for payments, **CELO** for gas, and the **Valora** wallet. CeloHT is independently governed by its community and is **not officially affiliated with, endorsed by, or operated by Celo Foundation or Valora.**
+CeloHT uses the **Celo blockchain** as infrastructure supporting **cUSD** for payments, **CELO** for gas, and the **Valora** wallet. CeloHT is independently governed by its community and is **not officially affiliated with, endorsed by, or operated by Celo Foundation or Valora.**
 
 **CeloHT has no native token, no ICO, no presale, and makes no investment promises.** See [NO_TOKEN_POLICY.md](./NO_TOKEN_POLICY.md).
 
